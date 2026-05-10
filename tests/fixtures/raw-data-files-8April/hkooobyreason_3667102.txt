@@ -1,0 +1,68 @@
+ROOM_CLASS|REASON_DESC|RETURN_STATUS|REASON_CODE|REPAIR_REMARKS|ROOM_STATUS|ROOM|LABEL|BEGIN_DATE|END_DATE|COMPLETED_ON
+STD1|HSK - General|Dirty|HSK|Low occupancy - Energy saving|OS|0303|QUEN|04-04-26|09-04-26|
+STD1|HSK - General|Dirty|HSK|Low occupancy - Energy saving|OS|0304|TWIN|04-04-26|09-04-26|
+STD1|HSK - General|Dirty|HSK|Low occupancy - Energy saving|OS|0305|QUEN|04-04-26|09-04-26|
+STD1|HSK - General|Dirty|HSK|Low occupancy - Energy saving|OS|0307|QUEN|04-04-26|09-04-26|
+STD1|HSK - General|Dirty|HSK|Low occupancy - Energy saving|OS|0312|QUEN|04-04-26|09-04-26|
+STD1|HSK - General|Dirty|HSK|Low occupancy - Energy saving|OS|0314|QUEN|04-04-26|09-04-26|
+STD1|HSK - General|Dirty|HSK|Low occupancy - Energy saving|OS|0316|QUEN|04-04-26|09-04-26|
+STD1|HSK - General|Dirty|HSK|Low occupancy - Energy saving|OS|0322|QUEN|04-04-26|09-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0201|QUEN|02-04-26|09-04-26|07-04-26
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0202|TWIN|02-04-26|09-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0203|QUEN|02-04-26|09-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0204|TWIN|02-04-26|09-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0206|TWIN|02-04-26|09-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0207|QUEN|02-04-26|09-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0208|TWIN|02-04-26|09-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0209|QUEN|02-04-26|09-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0210|QUEN|02-04-26|09-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0211|QUEN|02-04-26|09-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0212|QUEN|02-04-26|09-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0213|QUEN|02-04-26|09-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0214|QUEN|02-04-26|09-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0215|QUEN|02-04-26|09-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0216|QUEN|02-04-26|09-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0217|QUEN|02-04-26|09-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0218|QUEN|02-04-26|09-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0219|QUEN|02-04-26|09-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0220|QUEN|02-04-26|09-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0221|QUEN|02-04-26|09-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0222|QUEN|02-04-26|09-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0205|QUEN|04-04-26|09-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0301|QUEN|04-04-26|10-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0302|TWIN|04-04-26|10-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0306|TWIN|04-04-26|10-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0308|TWIN|04-04-26|10-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0309|QUEN|04-04-26|10-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0310|QUEN|04-04-26|10-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0313|QUEN|04-04-26|10-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0315|QUEN|04-04-26|10-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0317|QUEN|04-04-26|10-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0318|QUEN|04-04-26|10-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0319|QUEN|04-04-26|10-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0320|QUEN|04-04-26|10-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0321|QUEN|04-04-26|10-04-26|
+STD1|HSK - Low Occupancy (OOS Only)|Dirty|LOW|Low occupancy - Energy saving|OS|0311|QUEN|05-04-26|09-04-26|
+VEW1|ENG - Maintenance|Dirty|MAI|Fixing curtain|OO|1210|1VWQ|01-04-26|15-04-26|
+DLX1|FO - Please add details|Clean|OTH|Block for Wink Space spare / upgrade Globalist booking|OO|1216|1VDK|03-04-26|03-05-26|04-04-26
+DLX1|FO - Please add details|Clean|OTH|BLOCK STANDBY FOR GLOBALIST UPGRADE |OO|1211|1VDK|05-04-26|09-04-26|06-04-26
+DLX1|FO - Please add details|Dirty|OTH|Block for CEO Michael Piro|OO|1215|1VDK|01-12-25|28-11-26|31-12-25
+DLX1|FO - Please add details|Dirty|OTH|Block for Wink Space team spare for Globalist booking upgrade|OO|1211|1VDK|04-04-26|04-05-26|31-03-26
+STD1|FO - Please add details|Dirty|OTH|Block for Wink Bar store TV|OO|0201|QUEN|07-04-26|17-04-26|
+DLX1|FO - Please add details|Dirty|OTH|BLOCK STANDBY FOR UPGRADE GLOBALIST|OO|1204|1VDK|08-04-26|11-04-26|07-04-26
+DLX1|FO - Please add details|Dirty|OTH|BLOCK STANDBY FOR UPGRADE GLOBALIST|OO|1216|1VDK|08-04-26|11-04-26|07-04-26
+DLX1|FO - Please add details|Dirty|OTH|BLOCK STANDBY FOR GLOBALIST UPGRADE |OO|1211|1VDK|08-04-26|23-04-26|07-04-26
+DLX1|FO - Please add details|Inspected|OTH|BLOCK ROOM FOR CEO - MICHAEL PIRO|OO|1215|1VDK|01-01-26|01-01-27|21-01-26
+VEW1|FO - Please add details|Inspected|OTH|BLOCK STANDBY FOR MR. AMBAT - RETURNER |OO|0916|1VWQ|06-04-26|08-04-26|06-04-26
+DLX1|FO - Please add details|Inspected|OTH|BLOCK FOR GM MR. RICHARD CHANGE BACK TO LUXE|OO|1211|1VDK|22-01-26|22-01-27|22-01-26
+DLX1|FO - Please add details|Inspected|OTH|Block standby for GM - Mr. Richard to change back to Luxe Room|OO|1211|1VDK|23-01-26|23-01-27|24-01-26
+DLX1|FO - Please add details|Inspected|OTH|Block for GM - Mr. Richard to change back to Luxe Room|OO|1212|1VDK|24-01-26|24-01-27|24-01-26
+DLX1|FO - Please add details|Clean|OTH|BLOCK FOR SHOWROOM|OS|1213|1VDK|01-04-26|08-04-26|01-04-26
+VEW1|FO - Please add details|Dirty|OTH|BLOCK FOR SHOWROOM|OS|1104|1VWT|08-04-26|15-04-26|
+VEW1|FO - Please add details|Dirty|OTH|BLOCK FOR SHOWROOM|OS|1112|1VWQ|08-04-26|15-04-26|
+VEW1|FO - Please add details|Pickup|OTH|BLOCK FOR SHOWROOM|OS|1112|1VWQ|01-04-26|08-04-26|02-04-26
+STD1|ENG - Painting|Dirty|PAINT|painting room|OO|0422|QUEN|06-04-26|09-04-26|
+DLX1|HSK - VIP Arrival (OOS Only)|Inspected|VIP|CEO ROOM - MR. MICHAEL PIRO|OO|1215|1VDK|21-03-26|26-01-27|
+DLX1|HSK - VIP Arrival (OOS Only)|Inspected|VIP|CEO ROOM - MR. MICHAEL PIRO|OO|1215|1VDK|23-01-26|23-01-27|18-03-26
+LOGO
+
